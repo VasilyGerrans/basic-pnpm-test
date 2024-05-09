@@ -12,9 +12,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "5.0.1"
   },
-  "bundleDependencies": [
-    "@openzeppelin/contracts"
-  ],
+  "bundleDependencies": true,
   "files": [
     "Index.sol"
   ]
